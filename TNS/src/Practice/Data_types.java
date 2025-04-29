@@ -1,13 +1,7 @@
-package Practice;
-//
-//public class Data_types {
-//
-//	public static void main(String[] args) {
-//		// TODO Auto-generated method stub
-//
-//	}
+//Create a class Employee with name, age, and salary. Print the details using a method.
 
-//}
+
+package Practice;
 public class Data_types {
     // Fields (instance variables)
     String name;
